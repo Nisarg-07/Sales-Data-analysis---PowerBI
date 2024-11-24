@@ -81,7 +81,31 @@ The sales data was colleted from ElectroHub in form of 4 Xlsx Files.
     - Calculated net sales using **discount value** and **total sales** column
 
     #### Profit
-    -  Client was getting 10% of profit on totalSales 
+    -  Client was getting 10% of profit on totalSales
+
+## Insights on Sales
+
+### Top 5 Products by Sales
+  <img width="600" alt="Screenshot 2024-11-24 at 2 04 44 PM" src="https://github.com/user-attachments/assets/927fc96e-e00d-45db-99db-1a3e366b4a93">
+  
+  - The aforementioned bar chart indicates that Apple products were experiencing exceptionally high sales, exceeding 19 million units.
+   
+### Top 5 Products By Profit 
+ <img width="588" alt="Screenshot 2024-11-24 at 2 07 23 PM" src="https://github.com/user-attachments/assets/ee4aa101-0032-4f1d-a1af-98251e5a5670">
+ 
+ - The bar chart indicates that the Apple iPhone 14 and Raymond Suit were the most profitable products, with profits of 2.41 million and 0.41 million, respectively. 
+
+### Botton 5 Products by Sales and Profit 
+ <img width="623" alt="Screenshot 2024-11-24 at 2 11 01 PM" src="https://github.com/user-attachments/assets/266fb142-b291-478c-84d1-4d5dd4cd7f7d">
+ 
+ - The bar chart presents the five products with the lowest sales figures.
+ 
+ <img width="623" alt="Screenshot 2024-11-24 at 2 12 08 PM" src="https://github.com/user-attachments/assets/993047e2-4f31-4b7d-abf5-d7c9b28b6021">
+ 
+ - The bar chart persents the five products with the lowest profits
+ 
+
+
 
   
 
