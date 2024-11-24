@@ -103,7 +103,59 @@ The sales data was colleted from ElectroHub in form of 4 Xlsx Files.
  <img width="623" alt="Screenshot 2024-11-24 at 2 12 08 PM" src="https://github.com/user-attachments/assets/993047e2-4f31-4b7d-abf5-d7c9b28b6021">
  
  - The bar chart persents the five products with the lowest profits
+
+## Sales Trend (Yearly, Quatrly, Monthly)
+ - Utilizing the drill-down option within the Line chart, I was able to discern the sales trend over the specified timeframe.
+
+   ## Sales Trend Yearly
+    <img width="775" alt="Screenshot 2024-11-24 at 2 21 12 PM" src="https://github.com/user-attachments/assets/7aeb7b7d-f269-49b1-8e87-0de7f78971cc">
+    
+    - It is evident that sales value has been consistently increasing over time.
+    - However, there was only one record for the year 2024, which resulted in a relatively low sales figure for that year.
+
+   ## Sales Trend Quatrly
+    <img width="775" alt="Screenshot 2024-11-24 at 2 23 59 PM" src="https://github.com/user-attachments/assets/15577435-e5e0-4d81-b0ad-25d5ad266bc5">
+
+    -It is evident that across all years, the highest sales figures were recorded during the fourth quarter, which totaled **32.6 million**.
+
+   ## Sales Trend Monthly
+    <img width="775" alt="Screenshot 2024-11-24 at 2 26 04 PM" src="https://github.com/user-attachments/assets/f05e90e0-8d5b-49e5-8c0d-9f787a04b278">
+
+   - The highest sales figures were recorded in **October and November**.
+
+## Sales and Profit Relation 
+ <img width="522" alt="Screenshot 2024-11-24 at 2 30 27 PM" src="https://github.com/user-attachments/assets/a0252569-ccdd-4a3f-a702-6c416f23299e">
  
+ - A linear relationship can be observed between the sales and profit columns, as the client was earning a flat **10% profit** on each sale.
+
+## Avrage Discount For each promotion Category 
+ <img width="598" alt="Screenshot 2024-11-24 at 2 32 52 PM" src="https://github.com/user-attachments/assets/e1bc6456-c642-46cf-8ed8-2611d9d74afd">
+ 
+ - The accompanying stacked bar chart presents the average promotion price for each promotion category. Notably, **Weekend Flash Sales** exhibit the highest average discount, averaging 22.6k INR.
+
+## Sales By City 
+    
+<img width="548" alt="Screenshot 2024-11-24 at 2 38 37 PM" src="https://github.com/user-attachments/assets/98d6727c-11f7-484a-b8ee-657cd073499a">
+
+- The enclosed map chart illustrates the sales figures for each city, with the size of the bubbles representing the sales volume. Notably, **Bhopal** recorded the highest sales, surpassing **1.5 million** units.
+
+## Sales/Profit/quntity sold comparison for 2 periods by User
+ <img width="814" alt="Screenshot 2024-11-24 at 2 42 21 PM" src="https://github.com/user-attachments/assets/e21b9d6b-6cfd-46b2-b15b-12c29a080d4f">
+
+ - The aforementioned interactive graph would enable users to compare the sales, profit, and sold quantity across two distinct time periods.
+
+## Filterd Transaction data 
+
+ <img width="952" alt="Screenshot 2024-11-24 at 2 46 22 PM" src="https://github.com/user-attachments/assets/fc36591a-958a-463f-bf67-df1d8295003e">
+
+- The interactive graph provided above would assist the client in identifying specific transaction details by filtering the data based on the criteria of Date, CustomerName, ProductName, and PromotionName.
+
+## Promotion Filter 
+<img width="475" alt="Screenshot 2024-11-24 at 2 53 59 PM" src="https://github.com/user-attachments/assets/612c67db-e96d-4813-afe1-b4b3afbcb1f3">
+
+- This interactive graph enables clients to visualize the discounts utilized by specific customers and vice versa.
+
+Nisarg Patel © 2024
 
 
 
